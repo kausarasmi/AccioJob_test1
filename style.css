@@ -4,6 +4,21 @@
     position: absolute;
 }
 
+.heading{
+    color: aliceblue;
+    position: absolute;
+    padding-top: 30px;
+    padding-left: 300px;
+    font-size: 75px;
+}
+
+.sub-heading{
+    color: #fdab50;
+    position: absolute;
+    padding-top: 105px;
+    padding-left: 304px;
+    font-size: 45px;
+}
 .sidebar{
     position: absolute;
     height: 97vh;
@@ -16,14 +31,14 @@
 .top1{
     margin-top: 30px;
     margin-bottom: 40px;
-    background-color:hsl(40, 85%, 49%);
+    background-color:#fdab50;
     font-size: 25px;
     cursor: pointer;
 }
 
 .bottom1{
     margin-top: 50px;
-    background-color:hsl(40, 85%, 49%);
+    background-color: #fdab50;
     font-size: 25px;
     cursor: pointer;
 }
